@@ -1,1 +1,1 @@
-Welcome to my EduConnect Data Science repository!
+# EduConnect Data Science Project
